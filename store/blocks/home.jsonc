@@ -1,15 +1,42 @@
 {
-  "store.home": { 
+  "store.home": {
     "blocks": [
-      "rich-text"
+      "rich-text",
+      "info-card#button-right",
+      "info-card#button-left"
     ]
   },
-  "rich-text": { 
-    "props": { 
-      "text": "VTEX Store Framework",
+  "rich-text": {
+    "props": {
+      "text": "**Hello VTEX-IO**",
       "textAlignment": "CENTER",
       "textPosition": "CENTER",
       "font": "t-heading-1"
+    }
+  },
+  "info-card#button-right": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "right",
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-rosa-min.png",
+      "headline": "Vintage Pink",
+      "subhead": "Linda cozinha Vintage em tons de rosa.<br>Disponível a partir de Julho de 2022.",
+      "callToActionMode": "button",
+      "callToActionText": "Explorar",
+      "callToActionUrl": "/sale/d",
+      "textAlignment": "center"
+    }
+  },
+  "info-card#button-left": {
+    "props": {
+      "isFullModeStyle": false,
+      "textPosition": "left",
+      "imageUrl": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-cinza-min.png",
+      "headline": "Shining chrome",
+      "subhead": "Dê à sua cozinha um estilo fresco adicionando acabamentos metálicos quentes.<br>Disponível a partir de Julho de 2022.",
+      "callToActionMode": "link",
+      "callToActionText": "Ir para a coleção",
+      "textAlignment": "center"
     }
   }
 }

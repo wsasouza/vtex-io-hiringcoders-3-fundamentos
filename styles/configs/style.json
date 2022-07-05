@@ -78,9 +78,9 @@
   },
   "semanticColors": {
     "background": {
-      "base": "#ffffff",
+      "base": "#eef3f7",
       "base--inverted": "#03044e",
-      "action-primary": "#7159C1",
+      "action-primary": "#f71963",
       "action-secondary": "#eef3f7",
       "emphasis": "#f71963",
       "disabled": "#f2f4f5",
@@ -172,7 +172,7 @@
       "warning--faded": "#fff6e0"
     },
     "border": {
-      "action-primary": "#7159C1",
+      "action-primary": "#f71963",
       "action-secondary": "#eef3f7",
       "emphasis": "#f71963",
       "disabled": "#e3e4e6",

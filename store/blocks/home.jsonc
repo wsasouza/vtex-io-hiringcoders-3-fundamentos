@@ -32,7 +32,8 @@
       "callToActionMode": "button",
       "callToActionText": "Explorar",
       "callToActionUrl": "/sale/d",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "vintage"
     }
   },
   "info-card#button-left": {
@@ -44,7 +45,8 @@
       "subhead": "Dê à sua cozinha um estilo fresco adicionando acabamentos metálicos quentes.<br>Disponível a partir de Julho de 2022.",
       "callToActionMode": "link",
       "callToActionText": "Ir para a coleção",
-      "textAlignment": "center"
+      "textAlignment": "center",
+      "blockClass": "shining"
     }
   },
   "flex-layout.row": {

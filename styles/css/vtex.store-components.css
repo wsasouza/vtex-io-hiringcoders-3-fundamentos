@@ -1,3 +1,34 @@
 .imageElement--cover {
   object-fit: cover;
 }
+
+.infoCardContainer {
+  margin-bottom: 5rem;
+  background: #fce5fc;
+}
+
+.infoCardHeadline--vintage {
+  color: #715;
+}
+
+.infoCardSubhead--vintage {
+  font-weight: bold;
+  color: #fb19b0;
+}
+
+.infoCardContainer--shining {
+  background: #ced9fd;
+}
+
+.infoCardCallActionText--shining {
+  color: #043bfb;
+  padding: 1rem 4rem;
+  border-radius: 4px;
+  background: #7d8ec8;
+  text-decoration: none;
+}
+
+.infoCardCallActionText--shining:hover {
+  background: #354a93;
+  color: #e9eeff;
+}
